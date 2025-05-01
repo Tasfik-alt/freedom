@@ -1,3 +1,6 @@
+# Project
+ https://docs.google.com/document/d/10UlV9slFx5YdSsMRmowL7-gLAhNFzm-95_gPVgPk6ao/edit?tab=t.0
+
 # Jira Keyword Insight
 /Users/trahman/git/freedom/
 ├── backend/
